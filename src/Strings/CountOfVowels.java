@@ -14,7 +14,6 @@ public class CountOfVowels {
                     vowelCount++;
                 }
                 else{
-
                     consonantCount++;
                 }
             }
